@@ -1,5 +1,4 @@
 .block-2-header {
-  background-color: aliceblue;
   height: 100px;
   display: flex;
   align-items: center;
@@ -15,12 +14,8 @@
 
 }
 .block-2-images {
-  border-radius: 9%;
-  border-style: solid;
-  border-width: 5px;
   height: 180px;
   width: 180px;
-  overflow: hidden;
 }
 .subtext {
   background-color: black;
