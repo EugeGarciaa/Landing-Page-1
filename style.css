@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: Hero New, Arial;
 }
 .main-container {
   display: flex;
@@ -11,6 +12,8 @@
   background-color: #8e98a6;
   height: 100px;
   display: flex;
+  justify-content: space-between;
+
 }
 
 .block-1 {
