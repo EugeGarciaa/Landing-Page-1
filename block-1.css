@@ -1,0 +1,14 @@
+.block-1-img {
+  background-color: aqua;
+  height: 350px;
+  width: 650px;
+  overflow: hidden;
+}
+.block-1-img img {
+  height: 350px;
+  margin-left: -90px;
+ 
+} 
+.block-1-text {
+background-color: blanchedalmond;
+}

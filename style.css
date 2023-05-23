@@ -19,6 +19,9 @@
 .block-1 {
   background-color: #1F2937;
   height: 450px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
   
 }
 .block-2 {
