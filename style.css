@@ -10,7 +10,7 @@
 .block-0 {
   background-color: #8e98a6;
   height: 100px;
-
+  display: flex;
 }
 
 .block-1 {
