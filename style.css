@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+}
+.block-0 {
+  background-color: #8e98a6;
+  height: 100px;
+
+}
+
+.block-1 {
+  background-color: #1F2937;
+  height: 450px;
+  
+}
+.block-2 {
+  background-color: white;
+  height: 450px;
+  
+}
+.block-3 {
+  background-color: #ee00ff;
+  height: 350px;
+  
+}
+.block-4 {
+  background-color: #00f94b;
+  height: 290px;
+  
+}
+.block-5 {
+  background-color: #ff0000;
+  height: 100px;
+}
