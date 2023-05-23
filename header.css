@@ -4,7 +4,7 @@
   text-align: center;
   font-size: 40px;
   font-weight: 900;
-  margin-left: 150px;
+  margin-left: 80px;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
@@ -17,11 +17,10 @@
 
 .link-containers{
   display: flex;
-  justify-content: space-around;
-  width: 500px;
+  gap: 30px;
   flex-shrink: 0;
   padding-top: 38px;
-  margin-right: 100px;
+  margin-right: 80px;
 }
  a {
   font-size: 15px;

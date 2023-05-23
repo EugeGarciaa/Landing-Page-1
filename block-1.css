@@ -1,11 +1,12 @@
 .block-1-img {
-  background-color: aqua;
   height: 350px;
   width: 650px;
   overflow: hidden;
+  display: flex;
 }
 .block-1-img img {
   height: 350px;
+  width: auto;
   margin-left: -90px;
  
 } 
@@ -26,6 +27,7 @@ justify-content: center;
 
 }
 .block-1-text-header {
+  font-weight: 700;
   font-size: 45px;
   line-height: 50px;
   margin-left: 10px;
