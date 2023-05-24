@@ -1,18 +1,19 @@
 .block-1-img {
   height: 350px;
-  width: 650px;
+  width: 550px;
   overflow: hidden;
   display: flex;
+  padding-right: 100px;
 }
 .block-1-img img {
   height: 350px;
   width: auto;
-  margin-left: -90px;
+  margin-left: -150px;
  
 } 
 .block-1-text {
 height: 350px;
-width: 500px;
+width: 470px;
 align-items: center;
 display: flex;
 flex-direction: column;
@@ -23,6 +24,7 @@ justify-content: center;
   width: 500px;
   height: 350px;
   color: white;
+  padding-left: 40px;
   
 
 }
@@ -54,4 +56,13 @@ justify-content: center;
 }
 .block-1-text-button:hover {
   opacity: 0.5;
+}
+
+.block-1 {
+  background-color: #1F2937;
+  height: 600px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10px;
 }
